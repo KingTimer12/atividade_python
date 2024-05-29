@@ -25,3 +25,11 @@ perl setup.pl
 3. Use o comando python, por exemplo: `python3 -m venv venv`.
 4. Ative o venv.
 5. Instale as dependências executando o comando: `pip install -r requirements.txt`.
+
+# Features
+
+- [x] Rotas para ler, escrever e deletar;
+- [x] Botão de inserir com tela exclusiva para configurar;
+- [x] Botão de listar com tela exclusiva mostrando uma lista com todos registrados;
+- [x] Botão de exportar com diálogo de sucesso caso seja exportado a lista em .txt sem problemas;
+- [x] Botão de limpar todos alunos e todas notas registradas no banco de dados;
